@@ -1,0 +1,10 @@
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\bin\Debug\promedio de un estudiante.exe.config
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio de un estudiante.csprojResolveAssemblyReference.cache
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio_de_un_estudiante.Form1.resources
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio_de_un_estudiante.Properties.Resources.resources
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio de un estudiante.csproj.GenerateResource.Cache
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\bin\Debug\promedio de un estudiante.exe
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\bin\Debug\promedio de un estudiante.pdb
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio de un estudiante.exe
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio de un estudiante.pdb
+C:\Users\fredd\Desktop\sistema de compra\promedio de un estudiante\promedio de un estudiante\obj\Debug\promedio_de_un_estudiante.fmAyuda.resources
