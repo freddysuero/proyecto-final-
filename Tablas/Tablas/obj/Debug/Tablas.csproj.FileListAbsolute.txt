@@ -1,0 +1,10 @@
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\bin\Debug\Tablas.exe.config
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\bin\Debug\Tablas.exe
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\bin\Debug\Tablas.pdb
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.csprojResolveAssemblyReference.cache
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.Form1.resources
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.Properties.Resources.resources
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.csproj.GenerateResource.Cache
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.exe
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.pdb
+C:\Users\fredd\Desktop\sistema de compra\Tablas\Tablas\obj\Debug\Tablas.fmayuda.resources
